@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-📫 How to reach me: 
->linkedin   : divijaannedi 
->instagram  : divija___  
+I'm a 2022 Computer Science Graduate from KL University, currently working as a software engineer.
 
 
